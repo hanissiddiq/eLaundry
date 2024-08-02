@@ -1,0 +1,7 @@
+.select2-dropdown.increasezindex {
+    z-index:99999;
+}
+
+.select2-close-mask{
+    z-index: 2099;
+}
